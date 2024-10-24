@@ -17,7 +17,6 @@ This project is a Expense sharing System (CMS) that allows users to CRUD operati
 # Run backend
 Fork the repo
 git clone https://github.com/your-username/expense-sharing-application.git
-cd contact-management-system/backend
 yarn init
 yarn add
 yarn start
